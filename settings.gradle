@@ -1,0 +1,3 @@
+include 'main-project-one'
+
+rootProject.name = 'shared-resources-gradle'
